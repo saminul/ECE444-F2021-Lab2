@@ -22,4 +22,4 @@ This repo is a clone of https://github.com/miguelgrinberg/flask
 ## Activity 3
 
 
-![](screenshots/Activity3.png)
+![](screenshots/Activity3_new.png)

@@ -23,3 +23,26 @@ This repo is a clone of https://github.com/miguelgrinberg/flask
 
 
 ![](screenshots/Activity3_new.png)
+
+
+## Activity 4
+
+
+### Part 2
+
+![](screenshots/Activity4_2.png)
+
+
+### Part 3
+
+![](screenshots/Activity4_3.png)
+
+
+### Part 4
+
+![](screenshots/Activity4_4.png)
+
+
+### Part 5
+
+![](screenshots/Activity4_5.png)
